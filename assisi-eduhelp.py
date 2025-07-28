@@ -158,7 +158,7 @@ class ChatbotApp:
         
         # --- API Key Configuration & Initialization ---
         # IMPORTANT: Paste your Groq API key between the quotes below
-        self.api_key = "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" 
+        self.api_key = "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" 
 
         if not self.api_key or self.api_key == "":
             messagebox.showerror("API Key Missing", "Please enter your Groq API key in the `self.api_key` variable in the code.")
