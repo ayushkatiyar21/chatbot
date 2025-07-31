@@ -1,3 +1,8 @@
+# API key has spaces to prevent it from revoking
+
+
+
+
 # Import necessary libraries.
 # tkinter is used for creating the graphical user interface (GUI).
 import tkinter as tk
